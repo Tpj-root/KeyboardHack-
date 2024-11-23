@@ -11,12 +11,25 @@ Now, it looks perfect.
 
 
 
+
+
+-
+
+
+
+
 ### SCAN COPY
 
 <p align="center">
   <img src="Scan_copy/F_thumbnail.png" width="300" height="100">
   <img src="Scan_copy/B_thumbnail.png" width="300" height="100">
   <img src="Scan_copy/Key_map.png" width="300" height="100">
+</p>
+
+
+
+<p align="center">
+  <img src="Scan_copy/Tvs_model.jpeg" width="300" height="100">
 </p>
 
 
