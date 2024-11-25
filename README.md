@@ -37,6 +37,15 @@ Now, it looks perfect.
 
 
 
+## Trace lines
+
+
+<p align="center">
+  <img src="Scan_copy/gif/B_18.gif">
+  <img src="Scan_copy/gif/B_18_KEY.gif">
+  <img src="Scan_copy/gif/F_8.gif">
+  <img src="Scan_copy/gif/PIN_18_8_JOIN.png" width="1000" height="100">
+</p>
 
 
 
