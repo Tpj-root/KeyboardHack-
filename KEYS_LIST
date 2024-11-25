@@ -1,0 +1,473 @@
+TOP TO BOTTOM
+
+
+
+
+-------  ROW_1 == 16
+ESC
+F1
+F2
+F3
+F4
+F5
+F6
+F7
+F8
+F9
+F10
+F11
+F12
+PrintScreenSysRq
+ScrollLock
+PauseBreak
+------- ROW_2 == 22
+Tilde
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+Underscore
+Plus
+Pipe
+Backspace
+Insert
+Home
+PageUp
+NumLock
+DivisionSymbol
+Asterisk
+Hyphen, minus, or dash
+------- ROW_3 == 21
+Tab
+q
+w
+e
+r
+t
+y
+u
+i
+o
+p
+Open brace
+Close brace
+Enter
+Delete
+End
+PageDown
+7
+8
+9
+Plus
+------- ROW_4 == 15
+CapsLock
+a
+s
+d
+f
+g
+h
+j
+k
+l
+Colon
+Quote
+4
+5
+6
+------- ROW_5 == 17
+SHift_Left
+z
+x
+c
+v
+b
+n
+m
+Less than 
+Greater than
+Question mark
+SHift_Right
+UP_Arrow
+1
+2
+3
+Enter_last
+------- ROW_6 == 13
+Ctrl_left
+Windows_Key_left
+Alt_left
+Spacebar
+Alt_Right
+Windows_Key_Right
+Box_Menu
+Ctrl_Right
+LEFT_Arrow
+DOWN_Arrow
+RIGHT_Arrow
+0
+Dot
+
+TOTAL=104
+
+
+--------------------------
+
+
+BOT LEFT TO RIGHT
+
+PIN_1 = 1
+---
+Windows_Key_Right
+---
+
+PIN_2 = 1
+---
+Windows_Key_left
+
+
+PIN_3 = 4
+---
+F5
+PauseBreak
+Ctrl_left
+Ctrl_Right
+---
+PIN_4 = 4
+---
+PrintScreenSysRq
+ScrollLock
+Alt_left
+Alt_Right
+---
+PIN_5 = 7
+---
+0
+Underscore
+p
+Open brace
+Colon
+Quote
+Question mark
+---
+
+PIN_6 = 7
+---
+F9
+F10
+F11
+F12
+Pipe
+Backspace
+Enter_Big
+---
+
+PIN_7 = 2
+---
+SHift_Left
+SHift_Right
+---
+
+
+PIN_8 = 7
+---
+NumLock
+Delete
+Spacebar
+DOWN_Arrow
+7
+4
+1
+---
+
+
+PIN_9 = 7
+---
+Insert
+DivisionSymbol
+RIGHT_Arrow
+0
+2
+5
+8
+---
+
+
+
+PIN_10 = 8
+---
+PageUp
+PageDown
+Asterisk
+Hyphen, minus, or dash
+9
+6
+3
+Dot
+---
+
+
+PIN_11 = 6
+---
+Home
+End
+UP_Arrow
+LEFT_Arrow
+Plus
+Enter_last
+---
+
+PIN_12 = 7
+---
+F7
+F8
+9
+o
+l
+Greater than
+Box_Menu
+---
+
+PIN_13 = 8
+---
+F6
+8
+I
+K
+Less than 
+Plus
+Close brace
+SHift_Right ???
+---
+
+PIN_14 = 8
+---
+6
+7
+y
+u
+h
+j
+n
+m
+
+---
+
+PIN_15 = 8
+---
+4
+5
+R
+T
+F
+G
+V
+B
+
+
+
+
+---
+
+PIN_16 = 7
+---
+F2
+F3
+F4
+3
+E
+D
+C
+
+---
+
+
+---
+
+PIN_17 = 7
+---
+CapsLock
+SHift_Left
+F1
+2
+W
+S
+X
+
+---
+
+
+---
+
+PIN_18 = 7
+---
+ESC
+Tilde
+1
+Tab
+q
+a
+z
+---
+
+
+
+TOP LEFT TO RIGHT
+
+
+TOP_PIN_1 = 13
+---
+F5
+F10
+PrintScreenSysRq
+End
+PageDown
+1
+2
+3
+4
+7
+8
+9
+0
+---
+
+
+
+TOP_PIN_2 = 14
+---
+F1
+F2
+F8
+F9
+Tilde
+5
+6
+Underscore
+Plus
+Insert
+Home
+PageUp
+Delete
+Ctrl_left
+---
+
+TOP_PIN_3 = 11
+---
+F12
+B
+N
+Alt_Right
+Question mark
+SHift_Right
+Box_Menu
+LEFT_Arrow
+DOWN_Arrow
+RIGHT_Arrow
+Hyphen, minus, or dash
+---
+
+TOP_PIN_4 = 12
+---
+NumLock
+DivisionSymbol
+Asterisk
+Enter_big
+Ctrl_Right
+Z
+X
+C
+V
+M
+Less than 
+Greater than
+---
+
+TOP_PIN_5 = 13
+---
+ESC
+F4
+F6
+F11
+G
+H
+Quote
+UP_Arrow
+SHift_Left
+Alt_left
+Spacebar
+0
+Dot
+---
+
+TOP_PIN_6 = 15
+---
+Pipe
+Enter_Big ??
+a
+s
+d
+f
+j
+k
+l
+Colon
+SHift_Right ??
+1
+2
+3
+Enter_last
+---
+
+TOP_PIN_7 = 14
+---
+F3
+F7
+Backspace
+Open brace
+Close brace
+t
+y
+Tab
+CapsLock
+SHIFT_LEFT
+Windows_Key_left
+4
+5
+6
+Plus
+---
+
+TOP_PIN_8 = 7
+---
+
+ScrollLock
+PauseBreak
+q
+w
+e
+r
+u
+i
+o
+p
+7
+8
+9
+
+Windows_Key_Right  ?? where is bug
+---
+
+
+
+
+
+
+
+
