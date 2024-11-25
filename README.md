@@ -9,13 +9,12 @@ So, I decided to place a colored sheet underneath and then scanned the keyboard 
 Now, it looks perfect.
 
 
+## KEYS 104
 
 
-
-
--
-
-
+| Key_Number | Key_Name | Key_Image| Pin_Number_Top  | Pin_Number_Bot  | Pin_Description |
+| --- |  --- | --- |  --- | --- |
+| 1 | ESC | <img src="KEYS/001.png" width="40" height="40"> |   |    |   |
 
 
 ### SCAN COPY
@@ -47,6 +46,11 @@ Now, it looks perfect.
   <img src="Scan_copy/gif/F_8_KEY.gif">
   <img src="Scan_copy/gif/PIN_18_8_JOIN.png" width="1000" height="200">
 </p>
+
+
+
+
+
 
 
 
