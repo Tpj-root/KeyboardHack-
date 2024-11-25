@@ -44,8 +44,11 @@ Now, it looks perfect.
   <img src="Scan_copy/gif/B_18.gif">
   <img src="Scan_copy/gif/B_18_KEY.gif">
   <img src="Scan_copy/gif/F_8.gif">
-  <img src="Scan_copy/gif/PIN_18_8_JOIN.png" width="1000" height="100">
+  <img src="Scan_copy/gif/F_8_KEY.gif">
+  <img src="Scan_copy/gif/PIN_18_8_JOIN.png" width="1000" height="200">
 </p>
+
+
 
 
 
