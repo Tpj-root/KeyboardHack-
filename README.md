@@ -13,7 +13,7 @@ Now, it looks perfect.
 
 
 | Key_Number | Key_Name | Key_Image| Pin_Number_Top  | Pin_Number_Bot  | Pin_Description |
-| --- |  --- | --- |  --- | --- |
+| --- |  --- | --- | --- |  --- | --- |
 | 1 | ESC | <img src="KEYS/001.png" width="40" height="40"> |   |    |   |
 
 
