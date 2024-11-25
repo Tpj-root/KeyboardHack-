@@ -12,7 +12,7 @@ Now, it looks perfect.
 ## KEYS 104
 
 
-| Key_Number | Key_Name | Key_Image| Pin_Number_Top  | Pin_Number_Bot  | Pin_Description |
+| No | Key_Name | Key_Image| Pin_Number_Top  | Pin_Number_Bot  | Pin_Description |
 | --- |  --- | --- | --- |  --- | --- |
 | 01 | ESC | <img src="KEYS/001.png" width="40" height="40"> |   |    |   |
 | 02 | F1 | <img src="KEYS/002.png" width="40" height="40"> |   |    |   |
